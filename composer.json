@@ -1,0 +1,23 @@
+{
+    "name": "totalpeople/l4Ads",
+    "description": "Adds an ODBC driver to Laravel 4.1",
+    "keywords": ["laravel","database","odbc"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Total People",
+            "email": "dev@totalpeople.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.x",
+        "illuminate/database": "4.1.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "totalpeople\\l4Ads": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
