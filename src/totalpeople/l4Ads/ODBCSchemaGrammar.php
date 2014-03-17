@@ -1,4 +1,4 @@
-<?php namespace totalpeople\l4Ads;
+<?php namespace totalpeople\l4ads;
 
 use Illuminate\Support\Fluent;
 use Illuminate\Database\Schema\Blueprint;

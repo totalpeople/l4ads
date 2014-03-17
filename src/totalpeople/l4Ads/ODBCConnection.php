@@ -1,4 +1,4 @@
-<?php namespace totalpeople\l4Ads;
+<?php namespace totalpeople\l4ads;
 
 use Illuminate\Database\Connection;
 

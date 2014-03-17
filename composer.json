@@ -1,5 +1,5 @@
 {
-    "name": "totalpeople/l4Ads",
+    "name": "totalpeople/l4ads",
     "description": "Adds an ODBC driver to Laravel 4.1",
     "keywords": ["laravel","database","odbc"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "totalpeople\\l4Ads": "src/"
+            "totalpeople\\l4ads": "src/"
         }
     },
     "minimum-stability": "dev"
